@@ -1,8 +1,8 @@
-import { HeroSection } from "@/components/hero-section"
-import { AboutBrief } from "@/components/about-brief"
-import { FeaturedProjects } from "@/components/featured-projects"
-import { Testimonials } from "@/components/testimonials"
-import { ContactCTA } from "@/components/contact-cta"
+import { HeroSection } from "@/components/hero-section";
+import { AboutBrief } from "@/components/about-brief";
+import { FeaturedProjects } from "@/components/featured-projects";
+
+import { ContactCTA } from "@/components/contact-cta";
 
 export default function HomePage() {
   return (
@@ -10,8 +10,7 @@ export default function HomePage() {
       <HeroSection />
       <AboutBrief />
       <FeaturedProjects />
-      <Testimonials />
       <ContactCTA />
     </main>
-  )
+  );
 }

@@ -1,13 +1,13 @@
-import { ContactForm } from "@/components/contact-form"
-import { SocialLinks } from "@/components/social-links"
-import { Mail, MapPin } from "lucide-react"
-import type { Metadata } from "next"
+import { ContactForm } from "@/components/contact-form";
+import { SocialLinks } from "@/components/social-links";
+import { Mail, MapPin } from "lucide-react";
+import type { Metadata } from "next";
 
 export const metadata: Metadata = {
   title: "Contact Pranav Rayaprolu",
   description:
     "Get in touch with Pranav Rayaprolu for data analysis projects, collaborations, or career opportunities.",
-}
+};
 
 export default function ContactPage() {
   return (
@@ -33,7 +33,7 @@ export default function ContactPage() {
               <div className="space-y-4">
                 <div className="flex items-center gap-4">
                   <Mail className="w-5 h-5 text-blue-400" />
-                  <span>pranav.rayaprolu@gmail.com</span>
+                  <span>pranavrayaprolu108@gmail.com</span>
                 </div>
                 <div className="flex items-center gap-4">
                   <MapPin className="w-5 h-5 text-blue-400" />
@@ -47,5 +47,5 @@ export default function ContactPage() {
         </div>
       </div>
     </main>
-  )
+  );
 }

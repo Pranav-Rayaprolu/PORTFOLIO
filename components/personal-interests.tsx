@@ -1,7 +1,7 @@
-"use client"
+"use client";
 
-import { motion } from "framer-motion"
-import { Book, Camera, Code, Music, Plane, Users } from "lucide-react"
+import { motion } from "framer-motion";
+import { Book, Camera, Code, Music, Plane, Users } from "lucide-react";
 
 const interests = [
   {
@@ -26,7 +26,7 @@ const interests = [
   },
   {
     icon: Music,
-    title: "Music Production",
+    title: "Singing",
     description: "Creating electronic music with AI tools",
   },
   {
@@ -34,7 +34,7 @@ const interests = [
     title: "Travel",
     description: "Exploring new cultures and technologies",
   },
-]
+];
 
 export function PersonalInterests() {
   return (
@@ -47,9 +47,13 @@ export function PersonalInterests() {
       <div className="text-center mb-12">
         <h2 className="text-3xl md:text-4xl font-bold mb-4">
           Personal{" "}
-          <span className="bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">Interests</span>
+          <span className="bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent">
+            Interests
+          </span>
         </h2>
-        <p className="text-xl text-muted-foreground">What I'm passionate about beyond coding</p>
+        <p className="text-xl text-muted-foreground">
+          What I'm passionate about beyond coding
+        </p>
       </div>
 
       <div className="grid md:grid-cols-3 gap-6">
@@ -66,10 +70,12 @@ export function PersonalInterests() {
               <interest.icon className="w-6 h-6 text-white" />
             </div>
             <h3 className="text-lg font-semibold">{interest.title}</h3>
-            <p className="text-muted-foreground text-sm">{interest.description}</p>
+            <p className="text-muted-foreground text-sm">
+              {interest.description}
+            </p>
           </motion.div>
         ))}
       </div>
     </motion.section>
-  )
+  );
 }

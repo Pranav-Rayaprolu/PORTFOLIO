@@ -4,9 +4,11 @@ import { motion } from "framer-motion";
 import { Progress } from "@/components/ui/progress";
 
 const skills = [
+  { name: "Generative AI", level: 95, category: "AI/ML" },
   { name: "Machine Learning", level: 95, category: "AI/ML" },
   { name: "Deep Learning", level: 90, category: "AI/ML" },
-  { name: "Python", level: 95, category: "Programming" },
+  { name: "Python", level: 70, category: "Programming" },
+  { name: "Java", level: 95, category: "Programming" },
   { name: "TensorFlow", level: 90, category: "Frameworks" },
   { name: "React/Next.js", level: 85, category: "Frontend" },
   { name: "FASTAPI", level: 80, category: "Backend" },
