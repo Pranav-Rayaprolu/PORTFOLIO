@@ -6,6 +6,12 @@ A modern, visually engaging AI portfolio web application to showcase your projec
 
 ## 🚀 Features
 
+- **AI Chat:** Conversational AI assistant for real-time interaction and support.
+- **AI Insights:** Get actionable insights powered by advanced AI analytics.
+- **Calendar:** Integrated calendar for scheduling and managing events.
+- **Goal Manager:** Set, track, and achieve your personal and professional goals.
+- **Mood Tracking:** Monitor and analyze your mood trends over time.
+- **Task Manager:** Organize, prioritize, and complete your daily tasks efficiently.
 - **Featured Projects:** Highlight your top AI projects with live demos, code links, and technology tags.
 - **About & Bio:** Share your background, experience, and personal interests.
 - **Contact Form:** Allow visitors to reach out directly via a built-in contact form.
@@ -13,6 +19,36 @@ A modern, visually engaging AI portfolio web application to showcase your projec
 - **Modern UI:** Glassmorphism, gradients, and smooth animations for a premium look.
 - **Dark Mode:** Seamless theme switching for user preference.
 - **Tech Stack Badges:** Display the technologies used in each project.
+
+---
+
+## 🖼️ Screenshots & Features
+
+Below are some of the key features of LifeSync.ai, each illustrated with a screenshot. (Note: Google Drive links may require sign-in to view.)
+
+### AI Chat
+
+[AI Chat Screenshot](https://drive.google.com/file/d/19ZnO-rCPvSlzbZuqQLW_q_eXI-hyyfkT/view?usp=sharing)
+
+### AI Insights
+
+[AI Insights Screenshot](https://drive.google.com/file/d/1m5X4oI0FtfepRltZar_zoWoB7f3Fn4He/view?usp=sharing)
+
+### Calendar
+
+[Calendar Screenshot](https://drive.google.com/file/d/1so7CNtmjoVTlTUXVZ_TOLtCwTrewvazU/view?usp=drive_link)
+
+### Goal Manager
+
+[Goal Manager Screenshot](https://drive.google.com/file/d/1aztlXSynBEXSbhwjKuwmp8TuFwD4r8d4/view?usp=sharing)
+
+### Mood Tracking
+
+[Mood Tracking Screenshot](https://drive.google.com/file/d/1U7TwJbdvuPkZZ_p34gy95J1zgJZXxN8O/view?usp=sharing)
+
+### Task Manager
+
+[Task Manager Screenshot](https://drive.google.com/file/d/1pTN0vxCnlWYQUgFCQzYkcQkEIkfttjH9/view?usp=sharing)
 
 ---
 
