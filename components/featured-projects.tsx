@@ -13,7 +13,8 @@ const projects = [
     title: "Life Sync AI",
     description:
       "An intelligent companion that redefines the way we interact with digital devices uses GROQ and Gemini in the backend.",
-    image: "",
+    image:
+      "https://drive.google.com/file/d/1pTN0vxCnlWYQUgFCQzYkcQkEIkfttjH9/view?usp=sharing",
     technologies: [
       "Python",
       "GROQ",
@@ -23,8 +24,8 @@ const projects = [
       "Sentimental Analysis",
       "Productivity Enchancer",
     ],
-    demoUrl: "#",
-    githubUrl: "#",
+    demoUrl: "",
+    githubUrl: "https://github.com/Pranav-Rayaprolu/LifeSync.ai.git",
     featured: true,
   },
   {
